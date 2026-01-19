@@ -1,2 +1,0 @@
--Combinatoria
--https://en.wikipedia.org/wiki/Summation#Identities
